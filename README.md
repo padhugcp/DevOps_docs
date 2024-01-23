@@ -1,1 +1,1 @@
-# DevOps_docs
+# This repository consists devops related documents
